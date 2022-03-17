@@ -1,5 +1,5 @@
-function SayingHello() {
-    return <h1>Hello World</h1>;
+function SayingHello(props) {
+    return <h1>Hello {props.job}</h1>;
 }
 
 export default SayingHello;
