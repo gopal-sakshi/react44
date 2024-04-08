@@ -1,0 +1,4 @@
+it seems, first letter must be capital... sayingHello didnt work, but SayingHello worked
+SayingHello ---> is a component
+
+=========================================================================
