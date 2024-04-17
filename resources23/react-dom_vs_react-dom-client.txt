@@ -1,0 +1,12 @@
+react-dom package 
+- provides both server & client.
+
+
+react-dom/client 
+- helps to render the components on the client means browser
+- It can't be used for server side development. 
+    Ex: renderToString for SSR is exported from react-dom/server but not from react-dom/client
+- react-dom/client thing is new in v18
+
+react-dom/server 
+- APIs let you render React components to HTML on the server
